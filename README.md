@@ -1,5 +1,5 @@
 # Web Traffic Time Series Forecasting
-![timeseries](https://github.com//vinaydalu/Time_Series_Forecasting/blob/main/Images/Time-Series-Analysis.jpg)
+![timeseries](https://github.com/vinaydalu/Time_Series_Forecasting/blob/main/Images/Time-Series-Analysis.jpg)
 # <u> Overview of Data
   The training dataset consists of approximately 145k time series. Each of these time series represent a number of daily views of a different Wikipedia article, starting from July, 1st, 2015 up until December 31st, 2016.
   The prediction is based on the daily views between September 13th, 2017 and November 13th, 2017 for each article in the dataset. 
